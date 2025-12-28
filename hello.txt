@@ -1,0 +1,9 @@
+Version: 0.1
+Creator: Angel
+Based on mBlock and my favorite, PictoBlock
+Important things: Requires a browser with serial monitor
+The sketch is loaded with the Arduino IDE; that's all, then enjoy!
+Compatible boards: Arduino Giga R1 WiFi
+
+Compatible modules: Giga Display Shield
+only spanish
