@@ -9,3 +9,11 @@ el normal tocas y se queda asi hasta que toques en un lado
 
 
 pero el touchfix al no tocar se queda en 0
+#FIX V0.2
+una nueva version que solo arregla varias cosas
+
+el circulo no aparecia
+
+el triangulo no aparecia
+
+la linea no aparecia
